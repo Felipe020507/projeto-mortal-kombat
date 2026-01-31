@@ -4,7 +4,7 @@ Bem-vindo ao repositório do projeto "Mortal Kombat - Seleção de Personagens",
 ## Como Utilizar Este Projeto
 Clone este repositório em seu ambiente de desenvolvimento:
 
-git clone https://github.com/Felipe020507/projeto-mortal-kombat.git
+git clone https://github.com/Fcasale-dev/projeto-mortal-kombat.git
 
 ## Licença
 Este projeto está licenciado sob Felipe Casale. 
